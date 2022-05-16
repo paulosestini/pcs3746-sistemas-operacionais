@@ -1,0 +1,9 @@
+[submodule "1/linux"]
+	path = 1/linux
+	url = https://github.com/tiagoshibata/linux.git
+[submodule "3/initramfs/busybox"]
+	path = 3/initramfs/busybox/busybox
+	url = git://busybox.net/busybox.git
+[submodule "initramfs/busybox/busybox"]
+	path = initramfs_base/busybox/busybox
+	url = git://busybox.net/busybox.git
